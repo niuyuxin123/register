@@ -1,6 +1,7 @@
 {
   "devDependencies": {
-    "grunt": "^1.0.4",
+    "grunt": "^1.1.0",
+    "grunt-contrib-copy": "^1.0.0",
     "grunt-contrib-cssmin": "^3.0.0",
     "grunt-contrib-htmlmin": "^3.1.0",
     "grunt-contrib-uglify": "^4.0.1"
@@ -8,7 +9,6 @@
   "name": "register",
   "version": "1.0.0",
   "main": "main.js",
-
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 0"
   },
