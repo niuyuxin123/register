@@ -1,5 +1,5 @@
 .back{
-  background:url('./reg_bg_min.jpg') no-repeat;
+  background:url('https://passport.baidu.com/static/passpc-account/img/reg_bg_min.jpg') no-repeat;
   position:fixed;
   left:0;
   right:0;
@@ -117,7 +117,7 @@
   position: absolute;
   top: 12px;
   left: 413px;
-  background: url(./pwdtip.png) no-repeat;
+  background: url('https://passport.baidu.com/static/passpc-account/img/reg/pwdtip-2x.png') no-repeat;
   background-size: 100%;
 }
 #code{
